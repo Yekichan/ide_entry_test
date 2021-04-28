@@ -1,0 +1,8 @@
+- Masuk ke akun github
+- Masuk pada menu Repositori
+- Klik tombol menu Baru
+- Beri nama Repositori dan atur kondisi repositori sesuai kebutuhan
+- Klik tombol menu buat repositori
+- Setelah berhasi membuat repositori baru kilik unggah berkas
+- Lalu upload semua file yang di butuhkan
+- Lalu klik tombol menu klon github, dan akan muncul menu untuk danapat di akses, baik itu melalui link dan lain lain.

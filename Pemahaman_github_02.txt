@@ -1,0 +1,6 @@
+- Git clone <url-repository>
+- Cd <nama-direktori>
+- Git checkout -b <nama-branch-baru>
+- Git add Contributors.md
+- Git commit -m “add my-name to Contributors list”
+- Git push origin <nama-branch baru yang telah dibuat sebelumnya>
