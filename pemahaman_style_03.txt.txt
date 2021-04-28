@@ -1,0 +1,2 @@
+Yang saya ketahui format style tersebut tidak dapat di panggil melaui syntax HTML5, Karena variabel yang di gunakan salah dimana style tersebut
+menambahkan kurung kurawal di dalam kurung kurawal sehingga  variabel yang ada tidak dapat digunakan.

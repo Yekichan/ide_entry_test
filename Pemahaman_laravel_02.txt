@@ -1,0 +1,1 @@
+Tetap di confiq yang sama, hanya saja tetap harus membedakan nama data basenya, yang dimana nanti bisa dipanggil secara bergaintian.
